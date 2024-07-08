@@ -139,4 +139,4 @@ function calculateResult() {
 
 ```
 ## output
-https://khabir-ahmed786.github.io/calculator/
+![image](https://github.com/Khabir-Ahmed786/calculator/assets/143950752/f18e1ffd-6c9a-4a71-9f8c-4d25772ef244)
